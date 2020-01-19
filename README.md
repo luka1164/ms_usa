@@ -1,2 +1,17 @@
 # ms_usa
- Mass Shootings in the US Data Visualization with R
+
+This is a personal project (with no intention of being too formal) with the intent of studying R. For this purpose, I did some maps and graphs about mass shootings is the US.
+
+The mapping by states of the US is arbitrary. The injured index, killed index, and total index (total victims index) are indexes based of groups of 100,000 habitants. The total population per state is based on an estimate for 2019.
+
+For example:
+
+killed_index = (killed*100,000)/population
+
+So, for California, we have:
+
+killed_index (CA) = (264*100,000)/39.512.223
+
+killed_index (CA) = 0.668
+
+Also, I thought it was important to depict the total number of victims in a cumulative manner through the years. Alongside this, I made another total index, but this time I used the total population in the US for that specific year (check the graph and it will be less confusing, I hope.).
