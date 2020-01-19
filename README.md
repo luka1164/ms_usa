@@ -1,6 +1,6 @@
 # ms_usa
 
-This is a personal project (with no intention of being too formal) with the intent of studying R. For this purpose, I did some maps and graphs about mass shootings is the US.
+This is a personal project (where I'm not being too formal) with the intent of studying R. For this purpose, I did some maps and graphs about mass shootings is the US.
 
 The mapping by states of the US is arbitrary. The injured index, killed index, and total index (total victims index) are indexes based of groups of 100,000 habitants. The total population per state is based on an estimate for 2019.
 
