@@ -14,6 +14,6 @@ killed_index (CA) = (264*100,000)/39.512.223
 
 killed_index (CA) = 0.668
 
-Also, I've thought it was important to depict the total number of victims in a cumulative manner through the years. Alongside this, I've made another total index, but this time I've used the total population in the US for that specific year (check the graph and it will be less confusing, I hope.).
+Also, I've thought it was important to depict the total number of victims in a cumulative manner through the years. Alongside this, I've made another total index, but this time I've used the total population in the US for that specific year (check the graph/code and it will be less confusing, I hope!).
 
 data: https://en.wikipedia.org/wiki/List_of_mass_shootings_in_the_United_States_in_2019
